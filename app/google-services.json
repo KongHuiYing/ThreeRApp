@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "483658330873",
+    "project_id": "threerapp-56666",
+    "storage_bucket": "threerapp-56666.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483658330873:android:841fe0aad675c04fc3e828",
+        "android_client_info": {
+          "package_name": "com.example.threerapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfUoninw264AXb5DlXuNatVqGw5geT0Ds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
